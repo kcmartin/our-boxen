@@ -55,6 +55,9 @@ node default {
   # core modules, needed for most things
   include dnsmasq
   include git
+  include firefox
+  include homebrew
+  include mysql
   include hub
   include nginx
 
