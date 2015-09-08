@@ -7,5 +7,6 @@ class people::kcmartin::applications {
   include mysql
   include dropbox
   include evernote
+  include vlc
 
 }
